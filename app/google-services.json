@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996553755405",
+    "project_id": "revisi2-929ab",
+    "storage_bucket": "revisi2-929ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996553755405:android:0a7687937f4debe04c7e44",
+        "android_client_info": {
+          "package_name": "com.faisol.revisi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996553755405-hoqikqfu5in0dbegpeuq9f7uu8aofri2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PFszAxBzHIO_DQ26qowvUXgxdNQSMLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996553755405-hoqikqfu5in0dbegpeuq9f7uu8aofri2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
